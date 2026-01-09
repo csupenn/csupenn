@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Charlie Su 👋
 
-<!--
-**csupenn/csupenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Security Expert | Former CISO | Building TopFlow**
 
-Here are some ideas to get you started:
+I'm building secure AI systems where security is a first-class citizen, not an afterthought.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 What I'm Working On
+
+- **TopFlow** - Open-source AI orchestration framework with security-first patterns
+- **AI Security Architecture** - Designing secure-by-default AI systems
+- **Compliance Automation** - GDPR, SOC 2, HIPAA, ISO 21434 patterns
+- **Consulting** - Helping enterprises adopt AI securely
+
+---
+
+## 🚀 Current Projects
+
+### [TopFlow](https://github.com/csupenn/topflow) (In Development)
+Open-source visual workflow builder for secure AI applications.
+
+**Features:**
+- 12 node types for AI orchestration
+- Security-focused templates (GDPR, SOC 2, HIPAA)
+- SSRF prevention, rate limiting, cycle detection
+- Privacy-first architecture (localStorage only)
+- Code export to TypeScript
+
+**Get Involved:** Star on GitHub, contribute, or test the demo
+
+### [CharlieSu.com](https://charliesu.com)
+Personal brand hub and consulting platform. Live at charliesu.com.
+
+### Coming Soon
+- **AI Daily Project** - Automated AI & security news curation (refactoring)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: TypeScript, JavaScript, Python
+- **Frameworks**: Next.js, React, Node.js, Cloudflare Workers
+- **Databases**: PostgreSQL, Redis
+- **Deployment**: Vercel, Cloudflare
+
+---
+
+## 💬 Let's Connect
+
+- 📧 Email: [hello@charliesu.com](mailto:hello@charliesu.com)
+- 🐦 X: [@charliesu_ai](https://x.com/charliesu_ai)
+- 💼 LinkedIn: [charliesu-ai](https://www.linkedin.com/in/charliesu-ai)
+- 🌐 Website: [charliesu.com](https://charliesu.com)
+
+---
+
+**Building the future of secure AI** 🔐
