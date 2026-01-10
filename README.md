@@ -17,7 +17,7 @@ I'm building secure AI systems where security is a first-class citizen, not an a
 
 - **TopFlow** - Open-source AI orchestration framework with security-first patterns
 - **AI Security Architecture** - Designing secure-by-default AI systems (LLM / Agent / RAG)
-- **Compliance Automation** - GDPR, SOC 2, HIPAA, ISO 21434 patterns
+- **Compliance Automation** - GDPR, SOC 2, HIPAA, ISO 27001 patterns
 - **Advisory / Consulting** - Helping enterprises adopt AI securely
 
 
