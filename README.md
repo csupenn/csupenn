@@ -1,3 +1,13 @@
+<div align="center">
+
+![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge)
+[![日本語](https://img.shields.io/badge/Lang-日本語-white?style=for-the-badge&logo=japan)](./README.ja.md)
+[![中文](https://img.shields.io/badge/Lang-中文-red?style=for-the-badge&logo=china)](./README.zh.md)
+
+</div>
+
+---
+
 # Hi, I'm Charlie Su 👋
 
 **AI Security Expert | Former CISO | Building TopFlow**
@@ -8,9 +18,9 @@ I'm building secure AI systems where security is a first-class citizen, not an a
 ## 🔐 What I'm Working On
 
 - **TopFlow** - Open-source AI orchestration framework with security-first patterns
-- **AI Security Architecture** - Designing secure-by-default AI systems
+- **AI Security Architecture** - Designing secure-by-default AI systems (LLM / Agent / RAG)
 - **Compliance Automation** - GDPR, SOC 2, HIPAA, ISO 21434 patterns
-- **Consulting** - Helping enterprises adopt AI securely
+- **Advisory / Consulting** - Helping enterprises adopt AI securely
 
 
 ## 🚀 Current Projects
