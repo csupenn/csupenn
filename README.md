@@ -39,16 +39,21 @@ Personal brand hub and consulting platform. Live at charliesu.com.
 
 ## 🛠️ Tech Stack
 
-- **Languages**: TypeScript, JavaScript, Python
-- **Frameworks**: Next.js, React, Node.js, Cloudflare Workers
-- **Databases**: PostgreSQL, Redis
-- **Deployment**: Vercel, Cloudflare
+**Full Stack**: TypeScript, JavaScript, Python 3.11, Next.js 14-16, React 18-19, FastAPI, Streamlit
+
+**Specializations**:
+- **Frontend**: Tailwind CSS, React Flow, shadcn/ui, Framer Motion
+- **Backend**: FastAPI, SQLAlchemy, Pydantic, Cloudflare Workers
+- **Databases**: PostgreSQL, Redis, SurrealDB
+- **AI/ML**: LangChain, LanggraphAI SDK, multi-LLM orchestration (Claude, OpenAI, Groq, Google, Ollama)
+- **Security**: JWT, OAuth, SSRF prevention, ISO 21434 compliance, threat modeling
+- **DevOps**: Vercel, Cloudflare, Docker, GitHub Actions, pytest (87.6% coverage), Cypress
 
 ---
 
 ## 💬 Let's Connect
 
-- 📧 Email: [hello@charliesu.com](mailto:hello@charliesu.com)
+- 📧 Email: [cssu@upenn.edu](mailto:cssu@upenn.edu) (primary) | [charlie@charliesu.com](mailto:charlie@charliesu.com)
 - 🐦 X: [@charliesu_ai](https://x.com/charliesu_ai)
 - 💼 LinkedIn: [charliesu-ai](https://www.linkedin.com/in/charliesu-ai)
 - 🌐 Website: [charliesu.com](https://charliesu.com)
