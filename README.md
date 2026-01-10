@@ -4,7 +4,6 @@
 
 I'm building secure AI systems where security is a first-class citizen, not an afterthought.
 
----
 
 ## 🔐 What I'm Working On
 
@@ -13,7 +12,6 @@ I'm building secure AI systems where security is a first-class citizen, not an a
 - **Compliance Automation** - GDPR, SOC 2, HIPAA, ISO 21434 patterns
 - **Consulting** - Helping enterprises adopt AI securely
 
----
 
 ## 🚀 Current Projects
 
@@ -28,26 +26,6 @@ Open-source visual workflow builder for secure AI applications.
 - Code export to TypeScript
 
 **Get Involved:** Star on GitHub, contribute, or test the demo
-
-### [CharlieSu.com](https://charliesu.com)
-Personal brand hub and consulting platform. Live at charliesu.com.
-
-### Coming Soon
-- **AI Daily Project** - Automated AI & security news curation (refactoring)
-
----
-
-## 🛠️ Tech Stack
-
-**Full Stack**: TypeScript, JavaScript, Python 3.11, Next.js 14-16, React 18-19, FastAPI, Streamlit
-
-**Specializations**:
-- **Frontend**: Tailwind CSS, React Flow, shadcn/ui, Framer Motion
-- **Backend**: FastAPI, SQLAlchemy, Pydantic, Cloudflare Workers
-- **Databases**: PostgreSQL, Redis, SurrealDB
-- **AI/ML**: LangChain, LanggraphAI SDK, multi-LLM orchestration (Claude, OpenAI, Groq, Google, Ollama)
-- **Security**: JWT, OAuth, SSRF prevention, ISO 21434 compliance, threat modeling
-- **DevOps**: Vercel, Cloudflare, Docker, GitHub Actions, pytest (87.6% coverage), Cypress
 
 ---
 
