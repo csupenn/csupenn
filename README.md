@@ -1,6 +1,6 @@
 <div align="center">
 
-![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/Lang-English-blue?style=for-the-badge)(./README.md)
 [![日本語](https://img.shields.io/badge/Lang-日本語-white?style=for-the-badge&logo=japan)](./README.ja.md)
 [![中文](https://img.shields.io/badge/Lang-中文-red?style=for-the-badge&logo=china)](./README.zh.md)
 
