@@ -39,7 +39,7 @@ Open-source visual workflow builder for secure AI applications.
 
 ## 💬 Let's Connect
 
-- 📧 Email: [cssu@upenn.edu](mailto:cssu@upenn.edu) (primary) | [charlie@charliesu.com](mailto:charlie@charliesu.com)
+- 📧 Email: [cssu@upenn.edu](mailto:cssu@engineering.upenn.edu) (primary) | [charlie@charliesu.com](mailto:charlie@charliesu.com)
 - 🐦 X: [@charliesu_ai](https://x.com/charliesu_ai)
 - 💼 LinkedIn: [charliesu-ai](https://www.linkedin.com/in/charliesu-ai)
 - 🌐 Website: [charliesu.com](https://charliesu.com)
