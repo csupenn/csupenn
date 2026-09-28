@@ -40,7 +40,7 @@
 
 ## 💬 联系方式
 
-- 📧 邮箱: [cssu@upenn.edu](mailto:cssu@engineering.upenn.edu) | [charlie@charliesu.com](mailto:charlie@charliesu.com)
+- 📧 邮箱: [cssu@engineering.upenn.edu](mailto:cssu@engineering.upenn.edu) | [charlie@charliesu.com](mailto:charlie@charliesu.com)
 - 🐦 X: [@charliesu_ai](https://x.com/charliesu_ai)
 - 💼 领英: [charliesu-ai](https://www.linkedin.com/in/charliesu-ai)
 - 🌐 网站: [charliesu.com](https://charliesu.com)
